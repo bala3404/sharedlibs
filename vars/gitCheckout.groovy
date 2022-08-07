@@ -1,7 +1,6 @@
-def call() {
+def call(Map config = [:]) {
     
     sh "echo hello world"
-  
-    
+   
 
 }
